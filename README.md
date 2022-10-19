@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Md Farhan Sajid</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
