@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Web Development,C/C++,Python**
+- 💬 Ask me about **Web Development, C/C++ and football**
 
 - 📫 How to reach me **mdfarhansajid1111@gmail.com**
 
