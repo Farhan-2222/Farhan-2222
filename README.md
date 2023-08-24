@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mdfarhansajid1111@gmail.com**
 
-- ⚡ Fun fact **I am quite funny :)**
+- ⚡ Fun fact **Pepsi is better than Coca Cola :)**
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farhan-2222" alt="Farhan-2222" /></a> </p>
